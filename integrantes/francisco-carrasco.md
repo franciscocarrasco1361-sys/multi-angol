@@ -1,5 +1,6 @@
-# Perfil Profesional: Francisco Carrasco <img width="1200" height="1599" alt="WhatsApp Image 2026-11-21 at 19 56 07" src="https://github.com/user-attachments/assets/1b2830ce-c1af-4c0c-8657-f89532e5b67f" />
+# Perfil Profesional: Francisco Carrasco
 
+<img src="https://github.com/user-attachments/assets/1b2830ce-c1af-4c0c-8657-f89532e5b67f" width="220" alt="Foto de Francisco Carrasco" />
 
 ## 1. Propuesta de Valor
 Profesional con sólida experiencia en soluciones tecnológicas, desarrollo de software y soporte técnico especializado, ayudando a optimizar procesos y resolver desafíos operativos mediante el uso eficiente de tecnologías modernas.
@@ -19,5 +20,6 @@ Apasionado por la tecnología, el desarrollo de sistemas y la resolución de pro
 * **Objetivo:** Profundizar y dominar el despliegue avanzado de arquitecturas de bases de datos relacionales y no relacionales conectadas a aplicaciones móviles durante los próximos 3 meses, implementando al menos un entorno de producción funcional validado con pruebas de rendimiento semanales.
 
 ## 6. Contacto
+* **LinkedIn:** https://www.linkedin.com/in/francisco-carrasco-86339512a
 * **Teléfono / WhatsApp:** +56 9 5348 6652
 * **GitHub:** https://github.com/franciscocarrasco1361-sys
