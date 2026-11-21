@@ -1,6 +1,7 @@
 # Multi Angol
 
-<img src="logo-multi-angol.jpg" width="180" alt="Logo Multi Angol" />
+
+
 
 ## Propuesta de Valor
 Somos **Multi Angol**, que ayudamos a **pequeñas empresas, talleres, comunidades y hogares de Angol y la Región de la Araucanía**, mediante **el desarrollo de soluciones tecnológicas a la medida, la automatización de procesos y el soporte técnico especializado en reparación de equipos y sistemas**, con un enfoque cercano, responsable y adaptado a las necesidades reales de nuestro entorno local.
