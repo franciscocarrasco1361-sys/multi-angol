@@ -1,6 +1,6 @@
 # Multi Angol
 
-<img width="636" height="596" alt="image" src="https://github.com/user-attachments/assets/e1a18432-b8aa-4887-ada0-444942efea7f" />
+<img src="https://github.com/user-attachments/assets/e1a18432-b8aa-4887-ada0-444942efea7f" width="200" alt="Logo de Multi Angol" />
 
 ## Propuesta de Valor
 Somos **Multi Angol**, que ayudamos a **pequeñas empresas, talleres, comunidades y hogares de Angol y la Región de la Araucanía**, mediante **el desarrollo de soluciones tecnológicas a la medida, la automatización de procesos y el soporte técnico especializado en reparación de equipos y sistemas**, con un enfoque cercano, responsable y adaptado a las necesidades reales de nuestro entorno local.
@@ -29,7 +29,7 @@ Somos **Multi Angol**, que ayudamos a **pequeñas empresas, talleres, comunidade
 | 3 | Redacción y actualización del README principal de Multi Angol | Pía Labbé y Francisco Carrasco | 21/11/2026 | 21/11/2026 | Completado |
 | 4 | Redacción y subida del perfil profesional de Francisco | Francisco Carrasco | 21/11/2026 | 21/11/2026 | Completado |
 | 5 | Redacción y subida del perfil profesional de Pía | Pía Labbé | 21/11/2026 | 22/11/2026 | Completado |
-| 6 | Redacción y subida del perfil profesional de Agustín | Agustín Díaz | 21/11/2026 | 21/11/2026 | Completado |
+| 6 | Redacción y subida del perfil profesional de Agustín | Agustín Díaz | 21/11/2026 | 22/11/2026 | Completado |
 | 7 | Revisión final de ortografía, enlaces, FODA y orden del repositorio | Todo el equipo | 22/11/2026 | 23/11/2026 (10:00) | Completado |
 | 8 | Preparación y ensayo general del Demo Day (20 minutos) | Todo el equipo | 22/11/2026 | 23/11/2026 (11:00) | Completado |
 | 9 | Subida del enlace al repositorio público en el Aula Virtual | Pía Labbé | 23/11/2026 | 23/11/2026 (12:00) | Completado |
