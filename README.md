@@ -28,8 +28,8 @@ Somos **Multi Angol**, que ayudamos a **pequeñas empresas, talleres, comunidade
 | 2 | Creación del repositorio público en GitHub y estructura de carpetas | Francisco Carrasco | 21/11/2026 | 21/11/2026 | Completado |
 | 3 | Redacción y actualización del README principal de Multi Angol | Pía Labbé y Francisco Carrasco | 21/11/2026 | 21/11/2026 | Completado |
 | 4 | Redacción y subida del perfil profesional de Francisco | Francisco Carrasco | 21/11/2026 | 21/11/2026 | Completado |
-| 5 | Redacción, validación y subida del perfil profesional de Pía | Pía Labbé | 21/11/2026 | 22/11/2026 | En progreso |
+| 5 | Redacción y subida del perfil profesional de Pía | Pía Labbé | 21/11/2026 | 22/11/2026 | Completado |
 | 6 | Redacción y subida del perfil profesional de Agustín | Agustín Díaz | 21/11/2026 | 21/11/2026 | Completado |
-| 7 | Revisión final de ortografía, enlaces, FODA y orden del repositorio | Todo el equipo | 22/11/2026 | 23/11/2026 (10:00) | Pendiente |
-| 8 | Preparación y ensayo general del Demo Day (20 minutos) | Todo el equipo | 22/11/2026 | 23/11/2026 (11:00) | Pendiente |
-| 9 | Subida del enlace al repositorio público en el Aula Virtual | Pía Labbé | 23/11/2026 | 23/11/2026 (12:00) | Pendiente |
+| 7 | Revisión final de ortografía, enlaces, FODA y orden del repositorio | Todo el equipo | 22/11/2026 | 23/11/2026 (10:00) | Completado |
+| 8 | Preparación y ensayo general del Demo Day (20 minutos) | Todo el equipo | 22/11/2026 | 23/11/2026 (11:00) | Completado |
+| 9 | Subida del enlace al repositorio público en el Aula Virtual | Pía Labbé | 23/11/2026 | 23/11/2026 (12:00) | Completado |
