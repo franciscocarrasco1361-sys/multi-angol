@@ -1,5 +1,6 @@
 # Perfil Profesional: Pía Labbé Escobar
 
+<img width="1186" height="1599" alt="WhatsApp Image 2026-11-21 at 20 54 33" src="https://github.com/user-attachments/assets/efa89cac-e9a1-4ffc-8364-b892293b4845" />
 ## 1. Propuesta de Valor
 Líder de proyecto y estudiante de Analista Programador que combina organización, manejo de protocolos, trato cercano y coordinación de personas desde su experiencia como inspectora en Mozart School de Angol, aportando orden, seguimiento y visión práctica para impulsar soluciones tecnológicas y de soporte en **Multi Angol**.
 
