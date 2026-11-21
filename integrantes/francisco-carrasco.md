@@ -1,10 +1,10 @@
-# Perfil Profesional: Francisco Carrasco
+# Perfil Profesional: Francisco Carrasco 
+![Foto de Francisco Carrasco](../Imagen%20de%20WhatsApp%202026-11-21%20a%20las%2019.56.07.jpeg)
 
 ## 1. Propuesta de Valor
 Profesional con sólida experiencia en soluciones tecnológicas, desarrollo de software y soporte técnico especializado, ayudando a optimizar procesos y resolver desafíos operativos mediante el uso eficiente de tecnologías modernas.
 
 ## 2. Sobre Mí
-![Foto de Francisco Carrasco](../Imagen%20de%20WhatsApp%202026-11-21%20a%20las%2019.56.07.jpeg)
 Apasionado por la tecnología, el desarrollo de sistemas y la resolución de problemas técnicos a nivel hardware y software. Cuento con una sólida trayectoria en el área de seguridad y soporte, combinando habilidades de gestión de proyectos, diagnósticos electromecánicos y desarrollo de aplicaciones web y móviles para brindar soluciones confiables a la medida.
 
 ## 3. Tecnologías
