@@ -1,5 +1,5 @@
-# Perfil Profesional: Francisco Carrasco 
-![Foto de Francisco Carrasco](../Imagen%20de%20WhatsApp%202026-11-21%20a%20las%2019.56.07.jpeg)
+# Perfil Profesional: Francisco Carrasco <img width="1200" height="1599" alt="WhatsApp Image 2026-11-21 at 19 56 07" src="https://github.com/user-attachments/assets/1b2830ce-c1af-4c0c-8657-f89532e5b67f" />
+
 
 ## 1. Propuesta de Valor
 Profesional con sólida experiencia en soluciones tecnológicas, desarrollo de software y soporte técnico especializado, ayudando a optimizar procesos y resolver desafíos operativos mediante el uso eficiente de tecnologías modernas.
