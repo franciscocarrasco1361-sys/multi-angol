@@ -1,5 +1,6 @@
-# Perfil Profesional: Agustín Alejandro Díaz Badilla <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/f6cc103d-9b89-4d01-8e1e-9f1ae98ae64a" />
+# Perfil Profesional: Agustín Alejandro Díaz Badilla
 
+<img src="https://github.com/user-attachments/assets/f6cc103d-9b89-4d01-8e1e-9f1ae98ae64a" width="220" alt="Foto de Agustín Alejandro Díaz Badilla" />
 
 ## 1. Propuesta de Valor
 Desarrollador de software y analista técnico enfocado en la calidad de código (QA), la resolución lógica de problemas y el soporte en programación, aportando rigor técnico y colaboración en equipos multidisciplinarios.
