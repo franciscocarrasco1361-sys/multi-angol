@@ -3,7 +3,7 @@
 <img src="https://github.com/user-attachments/assets/1b2830ce-c1af-4c0c-8657-f89532e5b67f" width="220" alt="Foto de Francisco Carrasco Valdebenito" />
 
 ## 1. Propuesta de Valor
-Profesional con más de 06 años de experiencia en supervisión operacional, seguridad y gestión de personas, combinada con formación como Técnico en Analista Programador y dominio de herramientas de IA, ayudando a organizaciones, empresas y comunidades a coordinar equipos, optimizar procesos y resolver desafíos técnicos mediante soluciones prácticas y digitales.
+Profesional con más de 6 años de experiencia en supervisión operacional, seguridad y gestión de personas, combinada con formación como Técnico en Analista Programador y dominio de herramientas de IA, ayudando a organizaciones, empresas y comunidades a coordinar equipos, optimizar procesos y resolver desafíos técnicos mediante soluciones prácticas y digitales.
 
 ## 2. Sobre Mí
 Cuento con trayectoria en supervisión y jefatura de operaciones, gestión de recursos humanos, normativa OS-10 y desarrollo de sistemas web y móviles. He liderado equipos de hasta 150 personas y trabajado en entornos de alta exigencia operacional, aportando orden, liderazgo con propósito, pensamiento analítico y enfoque resolutivo para unir la gestión en terreno con herramientas tecnológicas.
