@@ -9,14 +9,14 @@ Somos **Multi Angol** que ayudamos a **pequeñas empresas, talleres y hogares de
 3. **Consultoría y Automatización:** Implementación de sistemas de control, bases de datos y herramientas de seguridad operativa.
 
 ## Integrantes del Equipo
-* **Pía [Apellido]** - *Jefa de Proyecto / Líder* - [Ver Perfil](integrantes/pia-[apellido].md)
+* **Pía Labbe** - *Jefa de Proyecto / Líder* - [Ver Perfil](integrantes/pia-[apellido].md)
 * **Francisco Carrasco** - *Técnico en Reparación y Especialista en Soporte* - [Ver Perfil](integrantes/francisco-carrasco.md)
-* **Agustín [Apellido]** - *Desarrollador de Software y QA* - [Ver Perfil](integrantes/agustin-[apellido].md)
+* **Agustín Diaz** - *Desarrollador de Software y QA* - [Ver Perfil](integrantes/agustin-[apellido].md)
 
 ## Cómo nos Organizamos
-* **Jefa de Proyecto (Pía):** Coordina al equipo, supervisa los plazos de la Carta Gantt, gestiona el repositorio principal en GitHub y lidera la presentación de la consultora en el Demo Day.
+* **Jefa de Proyecto (Pía Labbe):** Coordina al equipo, supervisa los plazos de la Carta Gantt, gestiona el repositorio principal en GitHub y lidera la presentación de la consultora en el Demo Day.
 * **Técnico en Reparación (Francisco Carrasco):** Encargado del diagnóstico técnico, implementación de hardware/software, soporte en terreno y arquitectura de soluciones tecnológicas.
-* **Desarrollador / QA (Agustín [Apellido]):** Encargado del desarrollo de código, pruebas de calidad de los sistemas y soporte en la programación de aplicaciones.
+* **Desarrollador / QA (Agustín Diaz):** Encargado del desarrollo de código, pruebas de calidad de los sistemas y soporte en la programación de aplicaciones.
 
 ## Planificación del Proyecto (Carta Gantt)
 
